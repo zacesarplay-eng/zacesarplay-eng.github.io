@@ -3,8 +3,8 @@ const CACHE_NAME = 'eeq-offline-v2';
 
 // 1. RECURSOS A CACHEAR (OBLIGATORIO)
 const URLS_TO_CACHE = [
-    '/gestor-operativo-app/index.html',
-    '/gestor-operativo-app/', // Asegurar que la raíz también se cachea
+    '/index.html',
+    '/', // Asegurar que la raíz también se cachea
     './manifest.json',
     'https://cdn.tailwindcss.com',
     'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css',
