@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "io.github.zacesarplay_eng.twa",
-    "sha256_cert_fingerprints": ["CF:AA:1B:46:0A:8F:65:A5:14:31:14:94:58:11:98:EF:96:C1:FA:6F:A5:F1:FF:02:F2:E3:0C:E1:9D:01:76:AB"]
+    "package_name": "io.github.zacesarplay_eng.ruteadorgps",
+    "sha256_cert_fingerprints": ["6A:89:72:BC:19:04:41:7E:19:C6:9F:64:51:4B:B6:57:12:5D:86:8C:68:A7:64:7B:79:D4:AB:95:B0:31:DE:63"]
   }
 }]
